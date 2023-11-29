@@ -27,9 +27,24 @@ Binaries are also available on [pypi].
 
 ## Usage
 
-First create the SQLite database file: `cnndmdb load` and check to make sure
-the file `data/cnn.sqlite3` was created.  This takes a while since the entire
-corpus is first downloaded and then inserted into the SQLite file.
+This package can be used from the command line with the `cnndmdb`
+[command](#command-line), or as a [Python API](#api).
+
+
+### Install
+
+1. Create the SQLite database file: `cnndmdb load`.  This takes a while since
+   the entire corpus is first downloaded and then inserted into the SQLite
+   file.
+1. Check to make sure the file `data/cnndm.sqlite3` was created.
+1. Optionally create a `~/.cnndmdbrc` to relocate the `data/cnndm.sqlite3`
+   file.
+
+To relocate the SQLite file, add the following to the `~/.cnndmdbrc` file:
+```ini
+[cnndmdb_default]
+db_file = ~/path/to/cnndm.sqlite3
+```
 
 
 ### Command Line
