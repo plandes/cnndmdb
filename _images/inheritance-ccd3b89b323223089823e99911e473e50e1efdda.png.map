@@ -1,0 +1,4 @@
+<map id="inheritance386d7aa921" name="inheritance386d7aa921">
+<area shape="rect" id="node1" href="#zensols.cnndmdb.app.Application" target="_top" title="Creates a SQLite database if the CNN and DailyMail summarization dataset." alt="" coords="5,5,116,36"/>
+<area shape="rect" id="node2" href="#zensols.cnndmdb.app.PrototypeApplication" target="_top" title="PrototypeApplication(app: zensols.cnndmdb.app.Application)" alt="" coords="270,5,457,36"/>
+</map>

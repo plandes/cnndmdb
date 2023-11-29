@@ -1,0 +1,53 @@
+zensols.cnndmdb package
+=======================
+
+Submodules
+----------
+
+zensols.cnndmdb.app
+-------------------
+.. inheritance-diagram:: zensols.cnndmdb.app
+   :parts: 1
+
+.. automodule:: zensols.cnndmdb.app
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+zensols.cnndmdb.cli
+-------------------
+.. inheritance-diagram:: zensols.cnndmdb.cli
+   :parts: 1
+
+.. automodule:: zensols.cnndmdb.cli
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+zensols.cnndmdb.corpus
+----------------------
+.. inheritance-diagram:: zensols.cnndmdb.corpus
+   :parts: 1
+
+.. automodule:: zensols.cnndmdb.corpus
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+zensols.cnndmdb.load
+--------------------
+.. inheritance-diagram:: zensols.cnndmdb.load
+   :parts: 1
+
+.. automodule:: zensols.cnndmdb.load
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: zensols.cnndmdb
+   :members:
+   :undoc-members:
+   :show-inheritance:
