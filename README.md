@@ -33,6 +33,7 @@ This package can be used from the command line with the `cnndmdb`
 
 ### Install
 
+1. Install the Python dependencies: `pip install -r src/python/requirements.txt`
 1. Create the SQLite database file: `cnndmdb load`.  This takes a while since
    the entire corpus is first downloaded and then inserted into the SQLite
    file.
